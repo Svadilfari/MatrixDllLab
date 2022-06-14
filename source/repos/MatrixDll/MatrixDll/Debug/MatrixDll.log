@@ -1,0 +1,39 @@
+﻿  pch.cpp
+  Constructors.cpp
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\MatrixClasses.h(26,26): warning C4251: Matrix::v: class "std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>" должен иметь dll-интерфейс для использования клиентами class "Matrix"
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\MatrixClasses.h(26): message : см. объявление "std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>"
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\Constructors.cpp(54,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\Constructors.cpp(57,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\Constructors.cpp(77,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\Constructors.cpp(117,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\Constructors.cpp(120,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\Constructors.cpp(147,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\Constructors.cpp(189,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\Constructors.cpp(212,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\Constructors.cpp(222,20): warning C4018: <: несоответствие типов со знаком и без знака
+  dllmain.cpp
+  MatrixOperations.cpp
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\Matrixclasses.h(26,26): warning C4251: Matrix::v: class "std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>" должен иметь dll-интерфейс для использования клиентами class "Matrix"
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\Matrixclasses.h(26): message : см. объявление "std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>"
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\MatrixOperations.cpp(42,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\MatrixOperations.cpp(356,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\MatrixOperations.cpp(390,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\MatrixOperations.cpp(391,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\MatrixOperations.cpp(441,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\MatrixOperations.cpp(444,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\MatrixOperations.cpp(494,8): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\MatrixOperations.cpp(498,8): warning C4018: <: несоответствие типов со знаком и без знака
+  residuals.cpp
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\Matrixclasses.h(26,26): warning C4251: Matrix::v: class "std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>" должен иметь dll-интерфейс для использования клиентами class "Matrix"
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\Matrixclasses.h(26): message : см. объявление "std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>"
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\RSA.h(34,25): warning C4251: Residuals::m_lambda: class "std::vector<double,std::allocator<double>>" должен иметь dll-интерфейс для использования клиентами class "Residuals"
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\Matrixclasses.h(26): message : см. объявление "std::vector<double,std::allocator<double>>"
+  rsa_operations.cpp
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\Matrixclasses.h(26,26): warning C4251: Matrix::v: class "std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>" должен иметь dll-интерфейс для использования клиентами class "Matrix"
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\Matrixclasses.h(26): message : см. объявление "std::vector<std::vector<double,std::allocator<double>>,std::allocator<std::vector<double,std::allocator<double>>>>"
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\RSA.h(34,25): warning C4251: Residuals::m_lambda: class "std::vector<double,std::allocator<double>>" должен иметь dll-интерфейс для использования клиентами class "Residuals"
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\Matrixclasses.h(26): message : см. объявление "std::vector<double,std::allocator<double>>"
+C:\Users\artgu\source\repos\MatrixDll\MatrixDll\rsa_operations.cpp(60,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+     Создается библиотека C:\Users\artgu\source\repos\MatrixDll\Debug\MatrixDll.lib и объект C:\Users\artgu\source\repos\MatrixDll\Debug\MatrixDll.exp
+  MatrixDll.vcxproj -> C:\Users\artgu\source\repos\MatrixDll\Debug\MatrixDll.dll
